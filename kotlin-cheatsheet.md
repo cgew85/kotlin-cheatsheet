@@ -1,5 +1,4 @@
 # Kotlin cheatsheet
-
 #### Functions
 
 ```kotlin
