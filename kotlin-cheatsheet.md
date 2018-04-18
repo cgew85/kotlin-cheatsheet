@@ -18,7 +18,7 @@ fun max(a: Int, b: Int) : Int = if (a > b) a else b
 Only works with expression bodies. In this case the function can be simplified even more.
 
 ```kotlin
-fun max(a: Int, b: Int) = if (a > b) a else b // Type inference by done compiler
+fun max(a: Int, b: Int) = if (a > b) a else b // Type inference done by compiler
 ```
 
 #### Variables
